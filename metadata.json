@@ -1,0 +1,6 @@
+{
+  "name": "St.messenger",
+  "description": "A feature-rich messenger with phone auth, video calls, stories, and reels.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["Real-time Messaging", "Video Calls", "Stories & Reels"]
+}
